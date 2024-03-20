@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // define the base url for the API
-const baseURL = 'https://fsd55wdt-be.onrender.com';
+const baseURL = 'https://fsd55wdt-be.onrender.com/api';
 
 // create an axios instance
 const instance = axios.create({
